@@ -25,4 +25,10 @@ Wiring:
 Documentation:
   - Soldering Arduino Nano & MPU6050: Semua mencoba soldering
   - Assembling components: Semua ikut membantu
-  - Finetuning kode & Calibration: Ryukin 
+  - Finetuning kode & Calibration: Ryukin
+  - Calibration menggunakan arduino sketch eksternal (included in repo)
+  
+Problems:
+  - Kurang familiar dengan hardware
+  - Keterbatasan peralatan dan komponen (glue gun terbatas, solder yang baik terbatas, motor driver)
+  - Tarikan motor driver tidak sekuat driver lainnya
