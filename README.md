@@ -33,3 +33,5 @@ Problems:
   - Kurang familiar dengan hardware
   - Keterbatasan peralatan dan komponen (glue gun terbatas, solder yang baik terbatas, motor driver)
   - Tarikan motor driver tidak sekuat driver lainnya
+
+References: https://circuitdigest.com/microcontroller-projects/arduino-based-self-balancing-robot
