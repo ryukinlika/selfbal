@@ -29,6 +29,7 @@ Documentation:
   - Calibration menggunakan arduino sketch eksternal (included in repo)
   
 Problems:
+  - Kekurangan baterai mengakibatkan troubleshooting susah
   - Kurang familiar dengan hardware
   - Keterbatasan peralatan dan komponen (glue gun terbatas, solder yang baik terbatas, motor driver)
   - Tarikan motor driver tidak sekuat driver lainnya
