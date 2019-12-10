@@ -30,7 +30,7 @@ double setpoint= 176; //set the value when the bot is perpendicular to ground us
 //###############################################
 //Change those Values according to your Design
 //#############################################
-double Kp = 25; //Set this first
+double Kp = 15; //Set this first
 double Kd = 0.8; //Set this secound
 double Ki = 130; //Finally set this 
 //##############################################
