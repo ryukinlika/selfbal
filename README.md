@@ -1,5 +1,5 @@
 # selfbal
-Simulation Modelling Project, 
+Simulation Modelling Project using libraries available for public
 Anggota: 
   1. Angel
   2. Harvard
